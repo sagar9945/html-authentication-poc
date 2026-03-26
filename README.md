@@ -1,30 +1,18 @@
-# CampusPe HTML Authentication System POC
-
-## Objective
-
-To create a simple HTML authentication system using only HTML and anchor tags.
+# Bootstrap Authentication UI
 
 ## Pages Included
-
-- login.html
-- register.html
-- forgot-password.html
-- reset-password.html
-- dashboard.html
-
-## Features
-
 - Login Page
-- Registration Page
+- Register Page
 - Forgot Password Page
 - Reset Password Page
-- Dashboard Page
-- Proper redirections using anchor tags
+- Dashboard
 
-## Technology Used
-
-HTML only
+## Features
+- Bootstrap 5 UI
+- Responsive Design
+- Custom CSS Styling
+- Password Toggle
+- Clean Layout
 
 ## Author
-
-Sagar M D
+Sagar
